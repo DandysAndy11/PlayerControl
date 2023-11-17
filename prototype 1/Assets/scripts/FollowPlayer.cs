@@ -2,6 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
+// Follows the player vehicle
 public class FollowPlayer : MonoBehaviour
 {
     public GameObject player;
